@@ -1,18 +1,16 @@
-
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: auto;
-    height: auto;
-}
-
 .footer {
+    padding: 10px;
+    background-color: #000; 
+    color: #fff; 
+    text-align: center;
+    padding: 10px 0;
     position: fixed;
     bottom: 0;
-    margin-bottom: 0%;
     width: 100%;
-    background-color: black;
-    color: white;
-    text-align: center;
+  }
+
+  h5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
