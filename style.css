@@ -1,0 +1,18 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
